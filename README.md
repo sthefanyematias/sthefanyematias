@@ -1,16 +1,22 @@
-### Hi there 👋
+### 👋 Olá, me chamo Sthefany, tudo bem contigo?! Seja muito bem-vindo(a) ao meu perfil do Github.
 
-<!--
-**sthefanyematias/sthefanyematias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- 📝 Estudante de TI
+- 👨‍💻 Apaixonada por tecnologia
+- 📚 Leitora assídua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+### Contato:
+<a href="https://www.linkedin.com/in/sthefanyematias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+![Snake animation](https://github.com/sthefanyematias/sthefanyematias/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
