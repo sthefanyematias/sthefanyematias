@@ -14,7 +14,6 @@
 
 </div>
 
-![Snake animation](https://github.com/sthefanyematias/sthefanyematias/blob/output/github-contribution-grid-snake.svg)
 
 
 
