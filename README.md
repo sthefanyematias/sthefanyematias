@@ -29,7 +29,7 @@
 </br>
 </br>
 
-<img align="right" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="250" width="520" /> 
+<img align="right" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="250" width="420" /> 
 
 ```csharp
 sthefanyematias@github
