@@ -28,10 +28,15 @@
 ### Contato
 <a href="https://www.linkedin.com/in/sthefanyematias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:sthefanyematias@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+</br>
 
-<img align="right" height="200" src="![2](https://github.com/sthefanyematias/sthefanyematias/assets/117083316/05629fa8-3239-438b-94f5-6864eb9dc8a7)
-"/>
+<div align="center">
 
+<img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/36be7beb-4836-4b2d-b187-2a21922607b8"/>
+<img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/65d50b71-cf1f-4d4b-99c7-219c78750ad6"/>
+<img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/611a8f72-9abd-442d-b5b3-5cac70049837"/> 
+
+</div>
 
 
 
