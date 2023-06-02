@@ -11,7 +11,7 @@
   
   🎧
   
- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX6lttj7ulLd6)
+ [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
 <br/>
   
  </div>
