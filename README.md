@@ -29,7 +29,7 @@
 </br>
 </br>
 
-<div align="left">
+<img align="right" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="250" width="520" /> 
 
 ```csharp
 sthefanyematias@github
@@ -41,7 +41,10 @@ Hobbies: cozinhar, comer, assistir filmes,
          ouvir músicas bregas, entre outros ;)
 ```
  
- </div>
+</br>
+</br> 
+</br>
+</br> 
  
 <p align="right">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -50,7 +53,7 @@ Hobbies: cozinhar, comer, assistir filmes,
  <img alt="#3" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/4f583085-b413-4267-9d22-d3a1ab9961ef" height="20" />
  <img alt="#4" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/506372cf-5746-4bf2-9931-3fd4f77bdd2a" height="20" />
  </p>
-
+ 
 
 
 
