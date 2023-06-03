@@ -29,6 +29,8 @@
 </br>
 </br>
 
+<img align="left" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="100" width="100" /> 
+
 <img align="right" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="250" width="420" /> 
 
 ```csharp
@@ -43,7 +45,6 @@ Hobbies: assistir filmes antigos,
  
 </br>
 </br> 
-</br>
 </br> 
  
 <p align="right">
