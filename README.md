@@ -8,17 +8,6 @@
  ##
 
 <div align="center">
-  
-  🎧
-  
- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn)
-<br/>
-  
- </div>
- 
-##
-
-<div align="center">
 
 <img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/36be7beb-4836-4b2d-b187-2a21922607b8"/>
 <img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/65d50b71-cf1f-4d4b-99c7-219c78750ad6"/>
