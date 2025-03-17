@@ -27,7 +27,7 @@ sthefanyematias@github
 -------------------------
 Pronouns: ela/ dela
 Location: são Paulo, sp
-Learning: Java, javaScript, HTML5, CSS3
+Learning: java, javaScript, HTML5, CSS3
 Hobbies: assistir filmes antigos e 
          ouvir músicas bregas ;)
 ```
