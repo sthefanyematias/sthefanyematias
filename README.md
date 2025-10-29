@@ -1,25 +1,21 @@
  
 <div align="center">
-  
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, me chamo Sthefany, tudo bem contigo?! Seja muito bem-vindo(a) ao meu perfil do Github. 
-  
- </div>
+Olá, eu sou a Sthefany!
+ 
+Seja muito bem-vindo(a) ao meu perfil no **GitHub**! ✨  
+É um prazer ter você por aqui — fique à vontade para explorar meus projetos, estudos e experiências na área de *desenvolvimento fullstack* 
+</div>
  
  ##
 
 <div align="center">
-
 <img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/36be7beb-4836-4b2d-b187-2a21922607b8"/>
 <img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/65d50b71-cf1f-4d4b-99c7-219c78750ad6"/>
 <img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/611a8f72-9abd-442d-b5b3-5cac70049837"/> 
-
 </div>
-
-</br>
-</br>
+</br></br>
 
 <img align="left" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="100" width="100" /> 
-
 <img align="right" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="100" width="100" /> 
 
 ```java
@@ -43,13 +39,8 @@ public class Sthefany {
         System.out.println("🎬 Hobbies: " + String.join(" e ", hobbies));
     }
 }
-
-
-```
- 
+``` 
 </br>
-</br> 
-</br> 
  
 <p align="right">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
