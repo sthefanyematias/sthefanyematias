@@ -22,14 +22,29 @@
 
 <img align="right" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="100" width="100" /> 
 
-```csharp
-sthefanyematias@github
--------------------------
-Pronouns: ela/ dela
-Location: são Paulo, sp
-Learning: java, javaScript, HTML5, CSS3
-Hobbies: assistir filmes antigos e 
-         ouvir músicas bregas ;)
+```java
+public class Sthefany {
+    public static void main(String[] args) {
+        String email = "sthefanyematias@gmail.com";
+        String location = "São Paulo, SP";
+        String[] learning = {
+            "Java", "JavaScript", "HTML5", "CSS3",
+            "Angular", "Node.js", "TypeScript",
+            "MongoDB", "MySQL", "SQL Server", "SQL"
+        };
+        String[] hobbies = {
+            "Assistir filmes antigos",
+            "Ouvir músicas bregas ;) "
+        };
+
+        System.out.println("📧 Email: " + email);
+        System.out.println("📍 Localização: " + location);
+        System.out.println("🎓 Learning: " + String.join(", ", learning));
+        System.out.println("🎬 Hobbies: " + String.join(" e ", hobbies));
+    }
+}
+
+
 ```
  
 </br>
