@@ -42,15 +42,18 @@ public class Sthefany {
 ``` 
 </br>
  
-<p align="right">
+<!-- <p align="right">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <img alt="#1" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/6d8ffd0f-f745-4fe5-8fe1-c45ec5400123" height="20" />
  <img alt="#2" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/735b1c0b-83b2-4521-a192-9b90f5b531b9" height="20" />
  <img alt="#3" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/4f583085-b413-4267-9d22-d3a1ab9961ef" height="20" />
  <img alt="#4" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/506372cf-5746-4bf2-9931-3fd4f77bdd2a" height="20" />
- </p>
+ </p> -->
  
-
-
+<div align="center">
+ 
+ *Entrega o teu caminho ao Senhor;*
+ *confia nele, e o mais ele fará. — **Salmo 37:5***
+</div>
 
 
