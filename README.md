@@ -1,60 +1,33 @@
-<div align="center">
-Olá, eu sou a Sthefany
- 
-Seja muito bem-vindo(a) ao meu perfil no **GitHub**! ✨  
-É um prazer ter você por aqui, fique à vontade para explorar meus projetos, estudos e experiências na área de *desenvolvimento fullstack* 
-</div>
- 
- ##
+<div align="left">
 
-<div align="center">
-<img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/36be7beb-4836-4b2d-b187-2a21922607b8"/>
-<img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/65d50b71-cf1f-4d4b-99c7-219c78750ad6"/>
-<img align="center" height="250" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/611a8f72-9abd-442d-b5b3-5cac70049837"/> 
-</div>
-</br></br>
-
-<img align="left" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="100" width="100" /> 
-<img align="right" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/03f6a3ed-5d82-4962-9834-7aa9d57ed3d6" height="100" width="100" /> 
-
-```java
-public class Sthefany {
-    public static void main(String[] args) {
-        String email = "sthefanyematias@gmail.com";
-        String location = "São Paulo, SP";
-        String[] learning = {
-            "Java", "JavaScript", "HTML5", "CSS3",
-            "Angular", "Node.js", "TypeScript",
-            "MongoDB", "MySQL", "SQL Server", "SQL"
-        };
-        String[] hobbies = {
-            "Assistir filmes antigos",
-            "Ouvir músicas bregas ;) "
-        };
-
-        System.out.println("📧 Email: " + email);
-        System.out.println("📍 Localização: " + location);
-        System.out.println("🎓 Learning: " + String.join(", ", learning));
-        System.out.println("🎬 Hobbies: " + String.join(" e ", hobbies));
-    }
-}
-``` 
-</br>
- 
-<!-- <p align="right">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="#1" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/6d8ffd0f-f745-4fe5-8fe1-c45ec5400123" height="20" />
- <img alt="#2" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/735b1c0b-83b2-4521-a192-9b90f5b531b9" height="20" />
- <img alt="#3" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/4f583085-b413-4267-9d22-d3a1ab9961ef" height="20" />
- <img alt="#4" src="https://github.com/sthefanyematias/sthefanyematias/assets/117083316/506372cf-5746-4bf2-9931-3fd4f77bdd2a" height="20" />
- </p> -->
- 
-<div align="center">
- 
- *Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará. — **Salmo 37:5***
-
- *E para os não religiosos: pense como um próton, sempre positivo! :)*
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?color=000000&lines=hello+world!;welcome+to+sthefany.sys)](https://git.io/typing-svg)
 
 </div>
 
+const dev = 'fullstack'; const heart = 'retro'; const mind = 'logic';
 
+#### { a-side }
+- **perfil**: desenvolvedora fullstack focada em estruturação de sistemas e eficiência de código.
+- **formação**: estudante de tecnologia da informação com foco em desenvolvimento de software e administração de sistemas.
+- **ambiente**: entusiasta de sistemas `unix-like`, utilizando `linux` como base para desenvolvimento e gestão de ambientes.
+- **hard skills**:
+    - **back-end**: desenvolvimento de aplicações utilizando `java` e `node.js`.
+    - **front-end**: desenvolvimento de interfaces com `angular`, `html5`, `css3` e `javascript`.
+    - **bancos de dados**: modelagem e manipulação em `sql (mysql, sql server)` e `mongodb`.
+    - **ferramentas**: controle de versão com `git` e gerenciamento via `github`.
+- **objetivo**: aplicar conhecimentos técnicos para resolver problemas complexos através de arquiteturas escaláveis.
+
+#### { b-side }
+- **essência**: constante aprendiz, estudante de t.i, apaixonada por tecnologia e leitora assídua.
+- **comportamento**: observadora por natureza; prefiro ouvir e analisar antes de codar ou falar.
+- **retro-buff**: entusiasta da era de ouro do cinema e de estéticas clássicas.
+- **analog soul**: fascinada pela lírica sentimental e pela autenticidade das músicas bregas.
+- `ping` --all: aberta a conexões e diálogos sobre absolutamente qualquer assunto.
+
+##
+
+<div align="center">
+
+*entrega o teu caminho ao senhor; confia nele, e o mais ele fará. — **salmo 37:5*** </br>
+*e para os não religiosos: pense como um próton, sempre positivo! :)*
+</div>
