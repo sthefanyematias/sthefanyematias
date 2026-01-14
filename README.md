@@ -18,8 +18,8 @@
 
 
 #### { a-side }
-- **perfil**: desenvolvedora fullstack focada em estruturação de sistemas e eficiência de código.
-- **formação**: estudante de tecnologia da informação com foco em desenvolvimento de software e administração de sistemas.
+- **perfil**: desenvolvedora fullstack com foco em arquitetura de sistemas e eficiência de código.
+- **formação**: tecnologia da informação, com ênfase em desenvolvimento de software e administração de sistemas.
 - **ambiente**: entusiasta de sistemas `unix-like`, utilizando `linux` como base para desenvolvimento e gestão de ambientes.
 - **hard skills**:
     - **back-end**: desenvolvimento de aplicações utilizando `java` e `node.js`.
