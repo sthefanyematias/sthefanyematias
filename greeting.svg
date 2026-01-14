@@ -1,0 +1,16 @@
+<svg fill="none" viewBox="0 0 400 50" width="400" height="50" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.title {
+					font-family: sans-serif;
+					font-weight: bold;
+					font-size: 24px;
+					color: red;
+					text-align: center;
+				}
+			</style>
+			<div class="title">Olá, eu sou a Sthefany!</div>
+		</div>
+	</foreignObject>
+</svg>
