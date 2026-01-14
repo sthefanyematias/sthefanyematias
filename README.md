@@ -1,5 +1,5 @@
 <div align="center">
-<img src="greeting.svg">
+Olá, eu sou a Sthefany
  
 Seja muito bem-vindo(a) ao meu perfil no **GitHub**! ✨  
 É um prazer ter você por aqui, fique à vontade para explorar meus projetos, estudos e experiências na área de *desenvolvimento fullstack* 
