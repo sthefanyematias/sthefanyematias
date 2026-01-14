@@ -10,7 +10,10 @@
   <img src="assets/3.gif" width="150"/>
 </div></br>
 
-const dev = 'fullstack'; const heart = 'retro'; const mind = 'logic';
+<div align="center">
+ const dev = 'fullstack'; const heart = 'retro'; const mind = 'logic';
+</div>
+
 
 #### { a-side }
 - **perfil**: desenvolvedora fullstack focada em estruturação de sistemas e eficiência de código.
