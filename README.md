@@ -52,8 +52,7 @@ public class Sthefany {
  
 <div align="center">
  
- *Entrega o teu caminho ao Senhor;*
- *confia nele, e o mais ele fará. — **Salmo 37:5***
+ *Entrega o teu caminho ao Senhor; confia nele, e o mais ele fará. — **Salmo 37:5***
 
  *E para os não religiosos: pense como um próton, sempre positivo! :)*
 
