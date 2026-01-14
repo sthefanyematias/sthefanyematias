@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+  <img src="assets/1.gif" width="150"/>
+  <img src="assets/2.gif" width="150"/>
+  <img src="assets/3.gif" width="150"/>
+</div></br>
+
 const dev = 'fullstack'; const heart = 'retro'; const mind = 'logic';
 
 #### { a-side }
