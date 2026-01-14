@@ -18,8 +18,8 @@ const dev = 'fullstack'; const heart = 'retro'; const mind = 'logic';
 - **objetivo**: aplicar conhecimentos técnicos para resolver problemas complexos através de arquiteturas escaláveis.
 
 #### { b-side }
-- **essência**: constante aprendiz, estudante de t.i, apaixonada por tecnologia e leitora assídua.
-- **comportamento**: observadora por natureza; prefiro ouvir e analisar antes de codar ou falar.
+- **essência**: constante aprendiz, apaixonada por tecnologia e leitora assídua.
+- **comportamento**: observadora por natureza.
 - **retro-buff**: entusiasta da era de ouro do cinema e de estéticas clássicas.
 - **analog soul**: fascinada pela lírica sentimental e pela autenticidade das músicas bregas.
 - `ping` --all: aberta a conexões e diálogos sobre absolutamente qualquer assunto.
