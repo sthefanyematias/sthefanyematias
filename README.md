@@ -42,6 +42,6 @@
 *e para os não religiosos: pense como um próton, sempre positivo! :)*
 </div>
 
-<div align="center">
-  <a href="https://sthefanyematias.github.io/portfolio/" target="_blank"><img src="assets/portfolio.png" width="30" style="filter: brightness(0);"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sthefanyematias" target="_blank"><img src="assets/linkedin.png" width="30" style="filter: brightness(0);"></a>
-</div>
+
+
+
