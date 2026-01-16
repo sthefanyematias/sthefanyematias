@@ -16,7 +16,6 @@
  const dev = 'fullstack'; const heart = 'retro'; const mind = 'logic';
 </div>
 
-
 #### { a-side }
 - **perfil**: desenvolvedora fullstack com foco em arquitetura de sistemas e eficiência de código.
 - **formação**: tecnologia da informação, com ênfase em desenvolvimento de software e administração de sistemas.
@@ -41,4 +40,8 @@
 
 *entrega o teu caminho ao senhor; confia nele, e o mais ele fará. — **salmo 37:5*** </br>
 *e para os não religiosos: pense como um próton, sempre positivo! :)*
+</div>
+
+<div align="center">
+  <a href="https://sthefanyematias.github.io/portfolio/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3767/3767084.png" width="22" height="22" style="filter: brightness(0);"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sthefanyematias" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" height="22" style="filter: brightness(0);"></a>
 </div>
