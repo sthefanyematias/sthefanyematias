@@ -43,5 +43,5 @@
 </div>
 
 <div align="center">
-  <a href="https://sthefanyematias.github.io/portfolio/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3767/3767084.png" width="22" height="22" style="filter: brightness(0);"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sthefanyematias" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" height="22" style="filter: brightness(0);"></a>
+  <a href="https://sthefanyematias.github.io/portfolio/" target="_blank"><img src="assets/portfolio.png" width="30" style="filter: brightness(0);"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sthefanyematias" target="_blank"><img src="assets/linkedin.png" width="30" style="filter: brightness(0);"></a>
 </div>
