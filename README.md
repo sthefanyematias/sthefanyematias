@@ -31,8 +31,7 @@
 #### { b-side }
 - **essência**: constante aprendiz, apaixonada por tecnologia e leitora assídua.
 - **comportamento**: observadora por natureza.
-- **retro-buff**: entusiasta da era de ouro do cinema e de estéticas clássicas.
-- **analog soul**: fascinada pela lírica sentimental e pela autenticidade das músicas bregas.
+- **retro-buff** | **analog soul**: amante da estética clássica, dos filmes antigos e da autenticidade sentimental das músicas bregas.
 - `ping` --all: aberta a conexões e diálogos sobre absolutamente qualquer assunto.
 
 ##
