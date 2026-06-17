@@ -19,7 +19,7 @@
 
 
 #### { a-side }
-- **perfil**: desenvolvedora fullstack com foco em arquitetura de sistemas e eficiência de código.
+- **perfil**: desenvolvedora full-stack com foco em arquitetura de sistemas e eficiência de código.
 - **ambiente**: entusiasta de sistemas unix-like, com linux como base para desenvolvimento.
 - **objetivo**: resolver problemas complexos através de arquiteturas escaláveis e código limpo.
 
